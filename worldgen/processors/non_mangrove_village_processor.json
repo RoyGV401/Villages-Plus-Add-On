@@ -14,7 +14,7 @@
 							"block": "minecraft:mangrove_door",
 							"probability": 0.9999999
 						},
-						"output_state": { "name": "minecraft:wooden_door" }
+						"output_state": { "name": "minecraft:air" }
 					},
 					{
 						"input_predicate": {
