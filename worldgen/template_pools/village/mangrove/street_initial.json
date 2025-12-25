@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/mangrove/streets_initial"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-st",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

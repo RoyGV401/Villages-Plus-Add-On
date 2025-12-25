@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:jigsaw": {
+    "description": {
+      "identifier": "rev:illager_watchpost"
+    },
+    "step": "surface_structures",
+    "heightmap_projection": "world_surface",
+    "start_height": {
+      "type": "constant",
+      "value": {
+        "absolute": -2 
+      }
+    },
+    "pool_aliases": [],
+    "dimension_padding": 0,
+    "max_depth": 1,
+    "liquid_settings": "apply_waterlogging",
+    "terrain_adaptation": "beard_box",
+    "start_pool": "rev:village/illager_watchposts",
+    "biome_filters": [
+      {
+        "all_of": [
+          { "value": "ocean", "test": "has_biome_tag", "operator": "not" },
+          { "value": "overworld", "test": "has_biome_tag", "operator": "equals" }
+        ]
+      }
+    ]
+  }
+}

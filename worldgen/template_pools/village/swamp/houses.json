@@ -1,0 +1,183 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/swamp/houses"
+    },
+    "elements": [
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-hs-1",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-hs-fa",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-1",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-2",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-3",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-4",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-5",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-6",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-7",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-8",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-9",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-bd-10",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-fr-1",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-fr-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-fr-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-fr-4",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/mangrove_village/mv-fr-5",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

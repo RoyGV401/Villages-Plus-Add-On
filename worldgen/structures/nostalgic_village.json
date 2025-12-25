@@ -1,0 +1,29 @@
+{
+    "format_version": "1.21.20",
+    "minecraft:jigsaw": {
+        "description": {
+            "identifier": "rev:nostalgic_village"
+        },
+        "step": "surface_structures",
+        "heightmap_projection": "world_surface",
+        "start_height": {
+            "type": "constant",
+            "value": {
+                "absolute": 0
+            }
+        },
+        "pool_aliases": [],
+        "dimension_padding": 0,
+        "max_depth": 9,
+        "liquid_settings": "ignore_waterlogging",
+        "terrain_adaptation": "beard_box",
+        "start_pool": "rev:village/nostalgic/town_centers",
+        "biome_filters": [
+            {
+                "value": "plains",
+                "test": "has_biome_tag",
+                "operator": "equals"
+            }
+        ]
+    }
+}

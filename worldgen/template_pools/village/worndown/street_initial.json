@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/worndown/streets_initial"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-st-1",
+          "projection": "terrain_matching"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-st-2",
+          "projection": "terrain_matching"
+        },
+        "weight": 1
+      },
+
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-st-3",
+          "projection": "terrain_matching"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-st-4",
+          "projection": "terrain_matching"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+	"format_version": "1.21.100",
+	"minecraft:processor_list": {
+		"description": {
+			"identifier": "rev:non_mangrove_village_processor"
+		},
+		"processors": [
+			{
+				"processor_type": "minecraft:rule",
+				"rules": [
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_door",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_door" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_fence",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_fence" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_fence_gate",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_fence_gate" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_hanging_sign",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_hanging_sign" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_log",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_log" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_planks",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_planks" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_pressure_plate",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_pressure_plate" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_shelf",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_shelf" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_sign",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_sign" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_slab",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_slab" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_stairs",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_stairs" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_trapdoor",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:trapdoor" }
+					},
+					{
+						"input_predicate": {
+							"predicate_type": "minecraft:random_block_match",
+							"block": "minecraft:mangrove_wood",
+							"probability": 0.9999999
+						},
+						"output_state": { "name": "minecraft:oak_wood" }
+					}
+				]
+			}
+		]
+	}
+}

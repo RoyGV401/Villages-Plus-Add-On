@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Villages Plus",
+    "description": "Si",
+    "uuid": "a7dd7a82-6346-403a-bb7f-9d9fc6ddc51b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 120]
+  },
+  "metadata": {
+    "product_type": "addon"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f5a1a143-8b51-406a-827b-9a5454fb55b7",
+      "version": [1, 0, 0]
+    }
+  ]
+}

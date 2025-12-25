@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/forest/fallback_streets"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/cherry_village/cv-fa-st-1",
+          "projection": "rigid"
+        },
+        "weight": 10
+      }
+    ]
+  }
+}
