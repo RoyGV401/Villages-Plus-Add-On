@@ -9,7 +9,7 @@
     "start_height": {
       "type": "constant",
       "value": {
-        "absolute": -28 //the structure will always spawn on y-20 without heightmap_projection. With heightmap projection it will spawn 20 blocks below the surface.
+        "absolute": -28
       }
     },
     "pool_aliases": [],

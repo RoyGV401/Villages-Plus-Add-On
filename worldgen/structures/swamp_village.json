@@ -9,7 +9,7 @@
     "start_height": {
       "type": "constant",
       "value": {
-        "absolute": -30 //the structure will always spawn on y-20 without heightmap_projection. With heightmap projection it will spawn 20 blocks below the surface.
+        "absolute": -30
       }
     },
     "pool_aliases": [],
@@ -20,8 +20,17 @@
     "start_pool": "rev:village/swamp/town_centers",
     "biome_filters": [
       {
-        "any_of": [
-          { "value": "swamp", "test": "has_biome_tag", "operator": "equals" }
+        "all_of": [
+          {
+            "value": "swamp",
+            "test": "has_biome_tag",
+            "operator": "equals"
+          },
+          {
+            "value": "mangrove_swamp",
+            "test": "has_biome_tag",
+            "operator": "not"
+          }
         ]
       }
     ]

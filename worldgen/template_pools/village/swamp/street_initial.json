@@ -10,7 +10,7 @@
           "processors": "rev:non_mangrove_village_processor",
 
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-st-ok",
+          "location": "villages_plus/swamp_village/sv-st-ok",
           "projection": "rigid"
         },
         "weight": 1

@@ -10,7 +10,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-tc-2",
+          "location": "villages_plus/swamp_village/sv-tc-2",
           "projection": "rigid"
         }
       }

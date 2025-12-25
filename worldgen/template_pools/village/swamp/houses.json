@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.100",
+  "format_version": "1.21.20",
   "minecraft:template_pool": {
     "description": {
       "identifier": "rev:village/swamp/houses"
@@ -9,7 +9,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-hs-1",
+          "location": "villages_plus/swamp_village/sv-hs-1",
           "projection": "rigid"
         },
         "weight": 4
@@ -18,7 +18,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-hs-fa",
+          "location": "villages_plus/swamp_village/sv-hs-fa",
           "projection": "rigid"
         },
         "weight": 4
@@ -27,7 +27,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-hs-2",
+          "location": "villages_plus/swamp_village/sv-hs-2",
           "projection": "rigid"
         },
         "weight": 4
@@ -36,7 +36,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-hs-3",
+          "location": "villages_plus/swamp_village/sv-hs-3",
           "projection": "rigid"
         },
         "weight": 4
@@ -46,7 +46,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-1",
+          "location": "villages_plus/swamp_village/sv-bd-1",
           "projection": "rigid"
         },
         "weight": 2
@@ -55,7 +55,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-2",
+          "location": "villages_plus/swamp_village/sv-bd-2",
           "projection": "rigid"
         },
         "weight": 2
@@ -64,7 +64,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-3",
+          "location": "villages_plus/swamp_village/sv-bd-3",
           "projection": "rigid"
         },
         "weight": 2
@@ -73,7 +73,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-4",
+          "location": "villages_plus/swamp_village/sv-bd-4",
           "projection": "rigid"
         },
         "weight": 2
@@ -82,7 +82,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-5",
+          "location": "villages_plus/swamp_village/sv-bd-5",
           "projection": "rigid"
         },
         "weight": 2
@@ -91,7 +91,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-6",
+          "location": "villages_plus/swamp_village/sv-bd-6",
           "projection": "rigid"
         },
         "weight": 2
@@ -100,7 +100,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-7",
+          "location": "villages_plus/swamp_village/sv-bd-7",
           "projection": "rigid"
         },
         "weight": 2
@@ -109,7 +109,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-8",
+          "location": "villages_plus/swamp_village/sv-bd-8",
           "projection": "rigid"
         },
         "weight": 2
@@ -118,7 +118,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-9",
+          "location": "villages_plus/swamp_village/sv-bd-9",
           "projection": "rigid"
         },
         "weight": 2
@@ -127,7 +127,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-bd-10",
+          "location": "villages_plus/swamp_village/sv-bd-10",
           "projection": "rigid"
         },
         "weight": 2
@@ -137,7 +137,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-fr-1",
+          "location": "villages_plus/swamp_village/sv-fr-1",
           "projection": "rigid"
         },
         "weight": 1
@@ -146,7 +146,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-fr-2",
+          "location": "villages_plus/swamp_village/sv-fr-2",
           "projection": "rigid"
         },
         "weight": 1
@@ -155,7 +155,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-fr-3",
+          "location": "villages_plus/swamp_village/sv-fr-3",
           "projection": "rigid"
         },
         "weight": 1
@@ -164,7 +164,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-fr-4",
+          "location": "villages_plus/swamp_village/sv-fr-4",
           "projection": "rigid"
         },
         "weight": 1
@@ -173,7 +173,7 @@
         "element": {
           "processors": "rev:non_mangrove_village_processor",
           "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/mangrove_village/mv-fr-5",
+          "location": "villages_plus/swamp_village/sv-fr-5",
           "projection": "rigid"
         },
         "weight": 1

@@ -35,6 +35,10 @@
       {
         "structure": "rev:mangrove_village",
         "weight": 1
+      },
+      {
+        "structure": "rev:swamp_village",
+        "weight": 1
       }
     ]
   }

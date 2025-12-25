@@ -14,7 +14,7 @@
 							"block": "minecraft:mangrove_door",
 							"probability": 0.9999999
 						},
-						"output_state": { "name": "minecraft:oak_door" }
+						"output_state": { "name": "minecraft:wooden_door" }
 					},
 					{
 						"input_predicate": {
@@ -30,7 +30,7 @@
 							"block": "minecraft:mangrove_fence_gate",
 							"probability": 0.9999999
 						},
-						"output_state": { "name": "minecraft:oak_fence_gate" }
+						"output_state": { "name": "minecraft:fence_gate" }
 					},
 					{
 						"input_predicate": {
@@ -62,7 +62,7 @@
 							"block": "minecraft:mangrove_pressure_plate",
 							"probability": 0.9999999
 						},
-						"output_state": { "name": "minecraft:oak_pressure_plate" }
+						"output_state": { "name": "minecraft:wooden_pressure_plate" }
 					},
 					{
 						"input_predicate": {
@@ -94,7 +94,7 @@
 							"block": "minecraft:mangrove_stairs",
 							"probability": 0.9999999
 						},
-						"output_state": { "name": "minecraft:oak_stairs" }
+						"output_state": { "name": "minecraft:oak_planks" }
 					},
 					{
 						"input_predicate": {
