@@ -8,12 +8,16 @@
       "type": "minecraft:random_spread",
       "salt": 85221139,
       "separation": 7,
-      "spacing": 32,
+      "spacing": 46,
       "spread_type": "triangular"
     },
     "structures": [
       {
         "structure": "rev:illager_watchpost",
+        "weight": 3
+      },
+      {
+        "structure": "rev:illager_camp",
         "weight": 1
       }
     ]

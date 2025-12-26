@@ -2,7 +2,7 @@
   "format_version": "1.21.20",
   "minecraft:jigsaw": {
     "description": {
-      "identifier": "rev:illager_camp"
+      "identifier": "rev:illager_watchpost"
     },
     "step": "surface_structures",
     "heightmap_projection": "world_surface",
@@ -17,7 +17,7 @@
     "max_depth": 1,
     "liquid_settings": "apply_waterlogging",
     "terrain_adaptation": "beard_box",
-    "start_pool": "rev:illager_camp_base",
+    "start_pool": "rev:village/illager_watchposts",
     "biome_filters": [
       {
         "all_of": [

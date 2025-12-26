@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:illager_camp_main"
+    },
+    "fallback": "rev:village/beach/fallback_streets",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-mn-1",
+          "projection": "rigid"
+        },
+        "weight": 6
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-mn-2",
+          "projection": "rigid"
+        },
+        "weight": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:illager_camp_connect"
+    },
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-base",
+          "projection": "terrain_matching"
+        }
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/cherry_village/cv-fa-hs",
+          "projection": "rigid"
+        },
+        "weight": 4
+      }
+    ]
+  }
+}
