@@ -20,9 +20,10 @@
     "start_pool": "rev:village/beach/town_centers",
     "biome_filters": [
       {
-        "any_of": [
+        "all_of": [
           { "value": "ocean", "test": "has_biome_tag", "operator": "equals" },
-          { "value": "beach", "test": "has_biome_tag", "operator": "equals" }
+          { "value": "river", "test": "has_biome_tag", "operator": "not" },
+          { "value": "deep_ocean", "test": "has_biome_tag", "operator": "not" }
         ]
       }
     ]

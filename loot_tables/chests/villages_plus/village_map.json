@@ -122,21 +122,6 @@
               "name": "§f§eSwamp Target"
             }
           ]
-        },
-        {
-          "type": "item",
-          "weight": 6,
-          "name": "minecraft:map",
-          "functions": [
-            {
-              "function": "exploration_map",
-              "destination": "pillager_outpost"
-            },
-            {
-              "function": "set_name",
-              "name": "§f§eOutpost Location"
-            }
-          ]
         }
       ]
     }

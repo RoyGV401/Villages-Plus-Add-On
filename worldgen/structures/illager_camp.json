@@ -14,7 +14,7 @@
     },
     "pool_aliases": [],
     "dimension_padding": 0,
-    "max_depth": 4,
+    "max_depth": 1,
     "liquid_settings": "apply_waterlogging",
     "terrain_adaptation": "beard_box",
     "start_pool": "rev:village/illager_watchposts",
