@@ -1,0 +1,186 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/worndown/houses"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fa-hs-1",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fa-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fa-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-hs-1",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-hs-4",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fr-1",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fr-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-fr-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-1",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-2",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-3",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-4",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-5",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-6",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-7",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-8",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-9",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-10",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-11",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-bd-12",
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ]
+  }
+}

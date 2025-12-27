@@ -1,0 +1,258 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/nostalgic/houses"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fa-hs-1",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fa-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fa-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-1",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-4",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-5",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-6",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-7",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-8",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-9",
+          "projection": "rigid"
+        },
+        "weight": 4
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-10",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-11",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-12",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-13",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-14",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-15",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-16",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-17",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-18",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-19",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-hs-20",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-1",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-4",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-5",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-6",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-7",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fr-8",
+          "projection": "rigid"
+        },
+        "weight": 2
+      }
+    ]
+  }
+}

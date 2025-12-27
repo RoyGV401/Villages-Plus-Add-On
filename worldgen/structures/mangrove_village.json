@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:jigsaw": {
+    "description": {
+      "identifier": "rev:mangrove_village"
+    },
+    "step": "surface_structures",
+    "heightmap_projection": "world_surface",
+    "start_height": {
+      "type": "constant",
+      "value": {
+        "absolute": -30
+      }
+    },
+    "pool_aliases": [],
+    "dimension_padding": 0,
+    "max_depth": 9,
+    "liquid_settings": "apply_waterlogging",
+    "terrain_adaptation": "beard_box",
+    "start_pool": "rev:village/mangrove/town_centers",
+    "biome_filters": [
+      {
+        "any_of": [
+          { "value": "mangrove_swamp", "test": "has_biome_tag", "operator": "equals" }
+        ]
+      }
+    ]
+  }
+}

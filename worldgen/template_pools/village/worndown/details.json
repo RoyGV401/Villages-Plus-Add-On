@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/worndown/details"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:empty_pool_element"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-dt-1",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-dt-2",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/worndown_village/wv-dt-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

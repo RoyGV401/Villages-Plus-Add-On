@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/swamp/town_centers"
+    },
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/swamp_village/sv-tc-2",
+          "projection": "rigid"
+        }
+      }
+    ]
+  }
+}

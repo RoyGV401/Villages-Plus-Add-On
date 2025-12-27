@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§b§k-§r§b Villages Plus Add-On §k-§r§a v1.0§r",
+    "description": "§fAdds a lot of Villages to MCBE!\n§uBy R401/JERA",
+    "uuid": "48662bb1-1199-4b3f-a841-f745936a0cdb",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 120]
+  },
+  "metadata": {
+    "product_type": "addon"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b3cb6b5b-84e1-49f5-ba41-6a578c132d89",
+      "version": [1, 0, 0]
+    }
+  ]
+}

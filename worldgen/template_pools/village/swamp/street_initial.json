@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/swamp/streets_initial"
+    },
+    "elements": [
+      {
+        "element": {
+          "processors": "rev:non_mangrove_village_processor",
+
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/swamp_village/sv-st-ok",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:jigsaw": {
+    "description": {
+      "identifier": "rev:worndown_village"
+    },
+    "step": "surface_structures",
+    "heightmap_projection": "world_surface",
+    "start_height": {
+      "type": "constant",
+      "value": {
+        "absolute": 0
+      }
+    },
+    "pool_aliases": [],
+    "dimension_padding": 0,
+    "max_depth": 9,
+    "liquid_settings": "ignore_waterlogging",
+    "terrain_adaptation": "beard_box",
+    "start_pool": "rev:village/worndown/town_centers",
+    "biome_filters": [
+      {
+        "all_of": [
+          {
+            "value": "mesa",
+            "test": "has_biome_tag",
+            "operator": "equals"
+          },
+          {
+            "value": "mesa_plateau",
+            "test": "has_biome_tag",
+            "operator": "not"
+          },
+          {
+            "value": "mesa_plateau_mutated",
+            "test": "has_biome_tag",
+            "operator": "not"
+          },
+          {
+            "value": "mesa_plateau_stone",
+            "test": "has_biome_tag",
+            "operator": "not"
+          },
+          {
+            "value": "mesa_plateau_stone_mutated",
+            "test": "has_biome_tag",
+            "operator": "not"
+          },
+          {
+            "value": "mesa_bryce",
+            "test": "has_biome_tag",
+            "operator": "not"
+          }
+        ]
+      }
+    ]
+  }
+}

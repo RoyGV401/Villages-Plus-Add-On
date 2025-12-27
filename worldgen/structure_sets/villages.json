@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:structure_set": {
+    "description": {
+      "identifier": "rev:villages"
+    },
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 52121139,
+      "separation": 12,
+      "spacing": 48,
+      "spread_type": "triangular"
+    },
+    "structures": [
+      {
+        "structure": "rev:cherry_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:nostalgic_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:forest_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:beach_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:worndown_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:mangrove_village",
+        "weight": 1
+      },
+      {
+        "structure": "rev:swamp_village",
+        "weight": 1
+      }
+    ]
+  }
+}

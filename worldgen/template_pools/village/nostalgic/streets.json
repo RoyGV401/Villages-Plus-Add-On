@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:village/nostalgic/streets"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-fa-st-1",
+          "projection": "terrain_matching"
+        },
+        "weight": 5
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-pa-st-1",
+          "projection": "terrain_matching"
+        },
+        "weight": 10
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-pa-st-2",
+          "projection": "terrain_matching"
+        },
+        "weight": 10
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/nostalgic_village/nv-pa-st-dt",
+          "projection": "terrain_matching"
+        },
+        "weight": 8
+      }
+    ],
+    "fallback": "rev:village/nostalgic/fallback_streets"
+  }
+}

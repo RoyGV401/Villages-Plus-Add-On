@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:illager_camp_main"
+    },
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-mn-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
+}
