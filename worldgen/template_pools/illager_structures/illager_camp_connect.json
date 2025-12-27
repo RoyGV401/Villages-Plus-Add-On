@@ -15,11 +15,10 @@
       },
       {
         "element": {
-          "element_type": "minecraft:single_pool_element",
-          "location": "villages_plus/cherry_village/cv-fa-hs",
+          "element_type": "minecraft:empty",
           "projection": "rigid"
         },
-        "weight": 4
+        "weight": 6
       }
     ]
   }

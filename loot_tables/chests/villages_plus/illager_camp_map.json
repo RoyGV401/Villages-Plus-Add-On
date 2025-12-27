@@ -1,0 +1,135 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:string"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:pumpkin"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "set_damage",
+              "damage": 42
+            }
+          ],
+          "name": "minecraft:crossbow"
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "set_damage",
+              "damage": 65
+            }
+          ],
+          "name": "minecraft:crossbow"
+        },
+
+        {
+          "type": "item",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 34
+              }
+            }
+          ],
+          "name": "dark_oak_log"
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:illager_camp"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eHeadquarters"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

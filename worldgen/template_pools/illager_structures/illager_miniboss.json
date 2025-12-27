@@ -1,0 +1,42 @@
+{
+    "format_version": "1.21.100",
+    "minecraft:template_pool": {
+        "description": {
+            "identifier": "rev:illager_miniboss"
+        },
+        "elements": [
+            {
+                "element": {
+                    "element_type": "minecraft:single_pool_element",
+                    "location": "villages_plus/illager_structures/ic-bs-1",
+                    "projection": "rigid"
+                },
+                "weight": 1
+            },
+            {
+                "element": {
+                    "element_type": "minecraft:single_pool_element",
+                    "location": "villages_plus/illager_structures/ic-bs-2",
+                    "projection": "rigid"
+                },
+                "weight": 1
+            },
+            {
+                "element": {
+                    "element_type": "minecraft:single_pool_element",
+                    "location": "villages_plus/illager_structures/ic-bs-4",
+                    "projection": "rigid"
+                },
+                "weight": 1
+            },
+            {
+                "element": {
+                    "element_type": "minecraft:single_pool_element",
+                    "location": "villages_plus/illager_structures/ic-bs-6",
+                    "projection": "rigid"
+                },
+                "weight": 1
+            }
+        ]
+    }
+}

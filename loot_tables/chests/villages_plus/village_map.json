@@ -1,0 +1,144 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:nostalgic_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eAntique Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "mansion"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:cherry_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eCherry Blossom Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eVillage Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:beach_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eBeach Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:forest_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eForest Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:worndown_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eBadlands Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "rev:swamp_village"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eSwamp Target"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 6,
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "exploration_map",
+              "destination": "pillager_outpost"
+            },
+            {
+              "function": "set_name",
+              "name": "§f§eOutpost Location"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

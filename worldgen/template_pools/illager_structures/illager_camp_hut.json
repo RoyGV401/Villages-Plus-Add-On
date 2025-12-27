@@ -1,107 +1,114 @@
 {
-    "format_version": "1.21.100",
-    "minecraft:template_pool": {
-        "description": {
-            "identifier": "rev:illager_camp_hut"
+  "format_version": "1.21.100",
+  "minecraft:template_pool": {
+    "description": {
+      "identifier": "rev:illager_camp_hut"
+    },
+    "fallback": "rev:village/beach/fallback_streets",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-1",
+          "projection": "rigid"
         },
-        "fallback": "rev:village/beach/fallback_streets",
-        "elements": [
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-1",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-2",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-3",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-4",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-5",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-6",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-7",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-8",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-9",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-10",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-11",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            },
-            {
-                "element": {
-                    "element_type": "minecraft:single_pool_element",
-                    "location": "villages_plus/illager_structures/ic-hs-12",
-                    "projection": "rigid"
-                },
-                "weight": 1
-            }
-        ]
-    }
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:empty_pool_element",
+          "projection": "rigid"
+        },
+        "weight": 6
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-2",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-3",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-4",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-5",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-6",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-7",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-8",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-9",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-10",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-11",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "villages_plus/illager_structures/ic-hs-12",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }
 }
